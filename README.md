@@ -1,6 +1,3 @@
-# SQL Queries
-In order to get the most out of these, I would suggest you to try these out before you look at the solution.
-
 # Fetch Duplicate Records
 This is a commonly asked interview question and a challenging one, I came up with 3 variants to this question
 
